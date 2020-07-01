@@ -1,0 +1,4 @@
+vendor
+.idea
+pools/*
+pools.json
